@@ -20,7 +20,6 @@ beautifulsoup4==4.5.3
 line-bot-sdk==1.12.1
 imgurpython==1.1.7
 pandas==0.25.2
-lxml==3.7.2
 msrest == 0.6.10
 botbuilder-core>=4.0.0.a6
 aiohttp==3.4.4
